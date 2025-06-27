@@ -6,7 +6,7 @@ subtitle: <a href='#'>Ph.D Student</a>. University of Pennsylvania
 
 profile:
   align: right
-  image: /assets/img/headshot.jpg
+  # image: /assets/img/headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: #>
     # <p>555 your office number</p>
