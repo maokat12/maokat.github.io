@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://maokat.github.io/sitemap.xml
+Sitemap: https://maokat12.github.io/sitemap.xml
