@@ -493,7 +493,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/katherine-mao-73219b127# your LinkedIn user name", "_blank");
+          window.open("https://www.linkedin.com/in/katherine-mao-73219b127", "_blank");
         },
       },{
         id: 'social-scholar',
