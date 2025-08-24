@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Ph.D Student</a>. University of Pennsylvania
+description: <strong>Ph.D Student</a>. University of Pennsylvania
 
 profile:
   align: right
   image: headshot.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: #>
     # <p>555 your office number</p>
     # <p>123 your address street</p>
     # <p>Your City, State 12345</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -27,7 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Katherine is interested in aerial robotics and motion planning. She received her BS in Mechanical Engineering from Purdue University in 2020.
+
+I'm Katherine Mao, a doctoral student in Mechanical Engineering and Applied Mechanics [(MEAM)](https://www.me.upenn.edu/) at [GRASP](https://www.grasp.upenn.edu/) at the University of Pennsylvania. I am is co-advised by [Vijay Kumar](https://www.kumarrobotics.org/) and [M. Ani Hsieh](https://scalar.seas.upenn.edu/). Previously, I complete my BS at Purdue University in Mechanical Engineering (2020) with minors in Computer Science and Math. There, I had the oppportunity to work with [Jeff Rhoads](https://research.nd.edu/people/jeffrey-rhoads/) on MEMS systems and chemical sensing. 
+
+My interests lie in agile robot motion planning and aerial robotics.
+
+[Curriculum Vitae](assets/pdf/mao-katherine-resume-july2025.pdf) (July 2025)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
